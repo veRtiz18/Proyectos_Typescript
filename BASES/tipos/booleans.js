@@ -3,4 +3,4 @@
     var isBatman = false;
     isSuperman = (isBatman) ? true : false;
 })();
-export { };
+export {};
